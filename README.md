@@ -1,4 +1,4 @@
-tf700_inithacks
+tf701_inithacks
 ===============
 
 This is a pre-init for Android on the Asus Transformer TF700 to allow scripts in
